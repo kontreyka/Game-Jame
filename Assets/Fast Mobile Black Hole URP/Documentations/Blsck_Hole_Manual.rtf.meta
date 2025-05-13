@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 99c9720ab356a0642a771bea13969a05
+guid: aab19bde09bd1624bb87c85651e87897
 DefaultImporter:
   externalObjects: {}
   userData: 
@@ -10,5 +10,5 @@ AssetOrigin:
   productId: 176900
   packageName: Fast Mobile Black Hole URP
   packageVersion: 1.1
-  assetPath: Assets/Scenes/SampleScene.unity
+  assetPath: Assets/Fast Mobile Black Hole URP/Documentations/Blsck_Hole_Manual.rtf
   uploadId: 666352

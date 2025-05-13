@@ -1,7 +1,8 @@
 fileFormatVersion: 2
-guid: 99c9720ab356a0642a771bea13969a05
-DefaultImporter:
+guid: 68bdf59e27d3d1048b09076de5f5451c
+NativeFormatImporter:
   externalObjects: {}
+  mainObjectFileID: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
@@ -10,5 +11,5 @@ AssetOrigin:
   productId: 176900
   packageName: Fast Mobile Black Hole URP
   packageVersion: 1.1
-  assetPath: Assets/Scenes/SampleScene.unity
+  assetPath: Assets/Fast Mobile Black Hole URP/Materials/Core_mat.mat
   uploadId: 666352
